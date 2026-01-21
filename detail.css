@@ -1,0 +1,59 @@
+/* ========================= */
+/* DETAILSEITEN – LAYOUT     */
+/* ========================= */
+
+.detail-page .section {
+  padding: 72px 0;
+}
+
+.detail-page .section.bg-light {
+  padding: 80px 0;
+}
+
+.detail-page h2 {
+  margin-bottom: 24px;
+}
+
+.detail-page p {
+  margin-bottom: 20px;
+  max-width: 640px;
+}
+
+/* ========================= */
+/* DETAIL HERO               */
+/* ========================= */
+
+.detail-page .hero-detail {
+  padding: 3.5rem 0 2.5rem;
+}
+
+.detail-page .hero-detail h1 {
+  font-size: 38px;
+}
+
+.detail-page .hero-detail .subtitle {
+  font-size: 1.05rem;
+  margin-top: 8px;
+}
+
+/* ========================= */
+/* DETAIL FACTS              */
+/* ========================= */
+
+.detail-page .facts {
+  padding-top: 8px;
+}
+
+.detail-page .facts li {
+  line-height: 1.4;
+}
+
+/* ========================= */
+/* DETAIL FOOTER CTA         */
+/* ========================= */
+
+.detail-page .section:last-of-type {
+  padding-top: 48px;
+  padding-bottom: 64px;
+  text-align: center;
+}
